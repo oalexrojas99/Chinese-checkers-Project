@@ -1,0 +1,22 @@
+INSTRUCCIONES DEL JUEGO
+
+Se juega en un tablero con 121 casillas en forma de estrella de David, (de seis puntas).
+Cada jugador consta de diez fichas. Al empezar el juego, estas diez fichas de un mismo jugador
+estan juntas, en uno de los triangulos que forman las puntas de la estrella.
+Cada jugador tiene un color diferente o una caracteristica que las distinga de las del otro jugador.
+El objetivo del juego es llevar sus 10 fichas al extremo opuesto de su posicion inicial
+Los jugadores lanzaran un dado para definir su turno.
+El que tenga mayor puntaje, elige su posicion y comienza la partida
+El primero que logre llevar todas sus fichas al extremo opuesto, ¡GANA!
+
+REGLAS A CONSIDERAR:
+
+1. Cada jugador solo mueve una ficha por turno
+2. Un movimiento valido es: 
+    - A una casilla adyacente libre
+    - Saltando una casilla adyacente ocupada por otra ficha (sea una ficha propia o no)
+      y posandola en la casilla siguiente (en la misma direccion) si esta libre.
+
+Esta segunda opcion permite volver a mover su ficha si encuentra otra oportunidad de salto.
+
+Presione una tecla para continuar...
